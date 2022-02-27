@@ -19,6 +19,6 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/nishen-ganegoda-611309206"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishen%20Ganegoda%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:19BTRCR061@jainuniversity.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-19BTRCR061@jainuniversity.ac.in-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nishenganegoda2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nishenganegoda2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
