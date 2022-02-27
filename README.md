@@ -3,7 +3,7 @@
 <h3>👨‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science in Data Science at Jain University
-- 🧠 &nbsp; Learning more about Big Data,vPython Programming and ML/DL.
+- 🧠 &nbsp; Learning more about Big Data,vPython Programming and ML/DL
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
