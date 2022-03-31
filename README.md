@@ -1,5 +1,4 @@
-
-<h2>👋Hey there! I'm Nishen.</h2>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Nishen</h1>
 <h3>👨‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science in Data Science at Jain University
@@ -10,10 +9,13 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
+ 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
