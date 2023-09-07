@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Nishen</h1>
 <h3>👨‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science in Data Science at Jain University
+- 🎓 &nbsp; Studied Computer Science in Data Science at Jain University
 - 🧠 &nbsp; Learning more about Big Data,Python Programming and ML/DL
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
